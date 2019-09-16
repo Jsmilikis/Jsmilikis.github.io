@@ -1,5 +1,7 @@
 
-body {background-image:src="background-2.jpg";}
+body {background-image:url=(background-2.jpg);
+background-size=:cover;
+background-attachment:fixed;}
 
 #Atable {width: 800px;}
 #Atd {width:200px; text-align:center;}
