@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="utf-8">
+      <title> Final Project</title>
+      <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+  <img src= "banner.png"> <br>
+      <table id="Atable">
+        <thead>
+            <tr>
+                <th id="Atd"> <a href= "https://jsmilikis.github.io/javascripts.html"> <img src="javascript.png"> </a> 
+                <th id="Atd"> <a href= "https://jsmilikis.github.io/apps.html"> <img src="apps-2.png"> </a>
+                <th id="Atd"> <a href="https://jsmilikis.github.io/about.html"> <img src="about me.png"> </a>
+                <th id="Atd"> <a href="https://jsmilikis.github.io/index.html"> <img src="home-2.png"> </a>
+            </tr>
+        </thead>
+    </table>
+  <h1> Apps</h1>
+     <p> The game we made is called Alien escape. To play, use the up and down arrow keys to avoid the green enemies coming across the screen<br>to win, avoid all of the enemies, but don't hit any or you will lose!</p>
+  
+  </body>
+</html>
